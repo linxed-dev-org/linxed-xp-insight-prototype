@@ -36,7 +36,7 @@ This is a Streamlit-based framework for calculating and visualizing XP (Experien
 
 3.  **Run the application**:
     ```bash
-    streamlit run app.py
+    streamlit run streamlit_app.py
     ```
 
 ## Usage
