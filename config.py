@@ -3,7 +3,7 @@ Linxed XP v3.0 — Configuration
 Aligned with 23 Feb meeting: subjects are base units, no predefined courses in UI.
 """
 
-BASE_XP_RATE = 0.01
+BASE_XP_RATE = 1
 PERF_DEFAULT = 1.0
 RATING_SCALE_MAX = 5
 
